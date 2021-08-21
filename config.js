@@ -2,7 +2,7 @@ const CONFIG = {
     introTitle: 'Duyên à!',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi.dằng sau chữ yêu đấy là thương
+    Lạc vào tim anh lẻ loi.Đằng sau chữ yêu đấy là thương!!!
     ...thời tiết trái gió trở trời
     Trái tim lỡ nhịp cả đời thương em
     `,
